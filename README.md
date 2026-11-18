@@ -2,11 +2,11 @@
 
 **Plataforma comunitaria de propiedades georreferenciadas | Chitré, Herrera, Panamá**
 
-> **Estado:** prototipo en desarrollo. El formulario de registro en ArcGIS Survey123 ya fue elaborado; la revisión/aprobación y el portal público están pendientes.
+**Estado:** prototipo en desarrollo. El formulario de registro en ArcGIS Survey123 ya fue elaborado; la revisión/aprobación y el portal público están pendientes.
 
 ## Descripción
 
-«Te colaboro en tu venta o alquiler...» es una iniciativa digital colaborativa que busca conectar a personas que ofrecen propiedades con quienes desean comprarlas o alquilarlas. Su primera cobertura será Chitré, con posibilidad de ampliarse al resto de Panamá. El servicio proyectará propiedades en un mapa interactivo y permitirá buscar por ubicación, tipo de operación, categoría de inmueble y rango de precio.
+**Te colaboro en tu venta o alquiler...** es una iniciativa digital colaborativa que busca conectar a personas que ofrecen propiedades con quienes desean comprarlas o alquilarlas. Su primera cobertura será Chitré, con posibilidad de ampliarse al resto de Panamá. El servicio proyectará propiedades en un mapa interactivo y permitirá buscar por ubicación, tipo de operación, categoría de inmueble y rango de precio.
 
 La propuesta utiliza **ArcGIS Survey123** para recibir registros, una experiencia de revisión basada en **ArcGIS Instant Apps** y servicios/capas editables con permisos restringidos para gestionar el estado de publicación, y **ArcGIS Experience Builder** para construir el sitio web público.
 
@@ -81,6 +81,14 @@ Para explorar el proyecto, leer este README, revisar las mejoras propuestas en I
 - **Lanzamiento piloto:** invitar a propietarios, corredores y comercios de Chitré a registrar anuncios; difundir mediante códigos QR en letreros, redes sociales y aliados comunitarios.
 - **Confianza:** publicar normas de participación, fecha de actualización, mecanismos para reportar anuncios incorrectos y proceso de retiro.
 - **Medición:** número de anuncios recibidos/aprobados, tiempo de revisión, búsquedas y contactos (si pueden medirse de manera respetuosa con la privacidad), y satisfacción de usuarios.
+
+### Acciones para el lanzamiento piloto
+
+Para el lanzamiento piloto en Chitré, se propone convocar a propietarios y agentes inmobiliarios, compartir el enlace del formulario mediante códigos QR y redes sociales, y recopilar observaciones de los primeros usuarios para mejorar la plataforma.
+
+## Justificación
+
+La propuesta ayuda a convertir un prototipo tecnológico en una iniciativa comunitaria con participación de los usuarios reales.
 
 ## Próximos pasos
 
